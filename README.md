@@ -1,4 +1,4 @@
-# Katas_Marcos y Patrones
+﻿# Katas_Marcos y Patrones
  Trabajo en grupo de los Design Methods
  
     1. Visitor_Command 
@@ -20,8 +20,8 @@
     Las practica Decorator esta implementa en Ruby y se divide en lo siguiente 
     
       # Decorator: 
-				Se podra encontrar el archivo con el código en la carpeta Decorator
-				Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
-                          son patallazos de la solución 
+		Se podra encontrar el archivo con el código en la carpeta Decorator
+		Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
+                           son patallazos de la solución 
       
        
