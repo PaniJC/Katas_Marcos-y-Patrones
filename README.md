@@ -22,6 +22,6 @@
       # Decorator: 
 		Se podra encontrar el archivo con el código en la carpeta Decorator
 		Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
-                           son patallazos de la solución 
+                   son patallazos de la solución 
       
        
