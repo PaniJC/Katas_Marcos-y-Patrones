@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\elmmarin.BANCOLOMBIA\\source\\repos\\Katas_Patrones\\Katas_Patrones\\Katas_Patrones.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\elmmarin.BANCOLOMBIA\\source\\repos\\Katas_Patrones\\Katas_Patrones\\Katas_Patrones.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\elmmarin.BANCOLOMBIA\\source\\repos\\Katas_Patrones\\Katas_Patrones\\Katas_Patrones.csproj",
+        "projectName": "Katas_Patrones",
+        "projectPath": "C:\\Users\\elmmarin.BANCOLOMBIA\\source\\repos\\Katas_Patrones\\Katas_Patrones\\Katas_Patrones.csproj",
+        "packagesPath": "C:\\Users\\elmmarin.BANCOLOMBIA\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\elmmarin.BANCOLOMBIA\\source\\repos\\Katas_Patrones\\Katas_Patrones\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\elmmarin.BANCOLOMBIA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
