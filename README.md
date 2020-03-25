@@ -17,11 +17,18 @@
                           son patallazos de la solución 
 						  
 	2. Decorator_Adapter
-    Las practica Decorator esta implementa en Ruby y se divide en lo siguiente 
+    Las practica Decorator esta implementa en Ruby,la de Adapter en Javascript y se divide en lo siguiente:
     
       # Decorator: 
-		Se podra encontrar el archivo con el código en la carpeta Decorator
-		Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
-                   son patallazos de la solución 
+		        Se podra encontrar el archivo con el código en la carpeta Decorator
+				Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
+				son patallazos de la solución 
+
+       # Adapter: 
+               Se podra encontrar el archivo con el código en la carpeta Adapter
+               Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
+		       son patallazos de la solución
+
+
       
        
