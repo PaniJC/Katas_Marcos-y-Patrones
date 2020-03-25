@@ -28,6 +28,14 @@
                Se podra encontrar el archivo con el código en la carpeta Adapter
                Diagramas: Incluye dos PDF, uno es el diagrama de clases y el otro
 	       son patallazos de la solución
+	       
+	 3. State - Strategy
+    	 Las prácticas de ambos métodos se implementaron en java:
+    
+		Ambos métodos incluyen:
+			* Clases
+			* Main para pruebas
+			* Diagrama de clases (en imágen png)
 
 
       
